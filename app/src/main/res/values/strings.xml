@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EMI Calculator</string>
+    <string name="mortgage_label">Mortgage ($)</string>
+    <string name="years_label">Amortization Period (years)</string>
+    <string name="interest_label">Yearly Interest Rate (%)</string>
+
+    <string name="mortgage_err_label">Mortgage is required</string>
+    <string name="years_err_label">Amortization Period is required(years)</string>
+    <string name="interest_err_label">Yearly Interest Rate is required</string>
+
+    <string name="emi_label">Your EMI is:</string>
+    <string name="calculate_button_label">Calculate</string>
+</resources>

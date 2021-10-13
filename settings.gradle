@@ -1,0 +1,2 @@
+rootProject.name = "Mobile_Assignment_1"
+include ':app'
